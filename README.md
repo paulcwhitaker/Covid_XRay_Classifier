@@ -1,6 +1,6 @@
 # Covid_XRay_Classifier
 
-Mulit-Class CNN image classifier on Chest Xray images provided by University of Montreal
+Multi-Class CNN image classifier on Chest Xray images provided by University of Montreal
 
 Overview:
 Uses data from https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset

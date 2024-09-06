@@ -13,6 +13,7 @@ Classfication accuracy is stable >80% for current version.
 
 To Do:
 Address Loss function creep up
+Data Viz
 Compare to basic scikit method
 try deeper model with fewer params (Large Dense layer?)
 Find other Xray sets to compare performace
